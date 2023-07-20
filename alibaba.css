@@ -1,0 +1,87 @@
+.loginsignup{
+    text-align: right;
+    font-size: 18px;
+    padding: 50px;
+    position: relative;
+    top: -40px;
+   
+}
+a{
+    border-top: 20px;
+    padding: 30px;
+}
+   
+ .logo{
+    width: 30%;
+    height: 30%;
+    position: relative;
+    top: -150px ;
+   
+ }  
+    
+p{
+    font-size: 25px;
+  
+}
+
+nav{
+    background-color: lightgray;
+    color:black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 23px;
+    position: relative;
+    top: -140px;
+    }
+
+main{
+    position: relative;
+    top: -50px;
+}
+
+
+
+
+.class1{
+   
+    text-align: center;
+    margin-right: 70px;
+
+   
+ }
+ img{
+    max-width:100%;
+    height: 300px;
+    
+}
+a:hover{
+    opacity: .5;
+   
+}
+.contents{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.gallery{
+    width: 32%;
+    height:40%;
+    text-align: center;
+
+}
+ footer{
+    background-color: rgb(156, 153, 153);
+    color: white;
+ }
+     
+         
+         
+         
+        
+
+
+
+
+   
