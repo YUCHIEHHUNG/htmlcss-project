@@ -17,6 +17,7 @@ form label{
     display: flex;
     margin-top: 20px;
     font-size: 15px;
+    
 }
 form input{
     width: 100%;
@@ -28,7 +29,7 @@ form input{
    
 }
 
-input[type="button"]{
+input[type="submit"]{
 width: 320px;
 height: 35px;
 margin-top: 20px;
