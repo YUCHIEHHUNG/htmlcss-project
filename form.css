@@ -1,4 +1,8 @@
-
+body{
+    font-family: Inter,SF Pro Text,Roboto,Helvetica Neue,Helvetica,Tahoma,Arial,PingFang SC,Microsoft YaHei;
+    background: rgb(59, 59, 58);
+    color: #fff;
+}
 
 h1{
     text-align: center;
@@ -9,6 +13,7 @@ form{
     width: 300px;
     margin: auto;
 }
+
 form :hover{
     opacity: 0.5;
 }
@@ -17,8 +22,8 @@ form label{
     display: flex;
     margin-top: 20px;
     font-size: 15px;
-    
 }
+
 form input{
     width: 100%;
     padding: 7px;
@@ -26,7 +31,6 @@ form input{
     border: solid grey 1px;
     border-radius: 6px;
     outline: none;
-   
 }
 
 input[type="submit"]{
@@ -37,17 +41,18 @@ border: none;
 font-size: 18px;
 }
 
-
 p{
     text-align: center;
     padding-top: 20px;
     font-size: 15px;
 }
+
 .p2{
     text-align: center;
     font-size: 15px;
     margin-top: -20px;
 }
+
 img{
     width: 30px;
     height: 30px;
@@ -55,6 +60,10 @@ img{
     position: relative;
     left: -40px;
     top: 20px;
+}
+
+a{
+    color: #d4d4d4;
 }
 
     

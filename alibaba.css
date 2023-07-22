@@ -1,79 +1,91 @@
+body{
+    font-family: Inter,SF Pro Text,Roboto,Helvetica Neue,Helvetica,Tahoma,Arial,PingFang SC,Microsoft YaHei;
+    color: #fff;
+}
+
 .loginsignup{
     text-align: right;
     font-size: 18px;
     padding: 50px;
     position: relative;
     top: -40px;
-   
 }
+
 a{
     border-top: 20px;
     padding: 30px;
+    text-decoration:none;
+}
+
+.form{
+    color: #202020;
 }
    
- .logo{
-    width: 30%;
-    height: 30%;
+.logo{
+    width: 25%;
+    height: 25%;
     position: relative;
-    top: -150px ;
-   
+    top: -150px;
  }  
     
-p{
-    font-size: 25px;
-  
+.description{
+    font-size: 20px;
 }
 
 nav{
-    background-color: lightgray;
-    color:black;
+    background-color: #ff6a00;
     display: flex;
     flex-direction: row;
     justify-content: center;
     font-size: 23px;
     position: relative;
     top: -140px;
-    }
+}
+
+.class1{
+    color:#fff;
+}
 
 main{
     position: relative;
     top: -50px;
 }
 
-
-
-
 .class1{
-   
     text-align: center;
     margin-right: 70px;
+}
 
-   
- }
- img{
+img{
     max-width:100%;
     height: 300px;
-    
 }
+
 a:hover{
     opacity: .5;
-   
 }
+
 .contents{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    
 }
+
 .gallery{
     width: 32%;
     height:40%;
     text-align: center;
-
+    color: black;
 }
- footer{
-    background-color: rgb(156, 153, 153);
+
+footer{
+    background-color: rgb(113, 115, 122);
     color: white;
+ }
+
+ .footerP{
+    font-size: 15px;
+    text-align: center;
  }
      
          
